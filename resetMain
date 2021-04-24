@@ -1,0 +1,6 @@
+setAttr "perspShape.nearClipPlane" 1;
+setAttr "perspShape.farClipPlane" 2000000;
+setAttr "topShape.nearClipPlane" 1;
+setAttr "topShape.farClipPlane" 2000000;
+DeleteHistory;
+print("Camera Reset");
