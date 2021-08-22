@@ -1,4 +1,7 @@
 # CameraResetScript
+
+<a href="https://github.com/KieronJenkins" target="_blank"><img src="https://img.shields.io/github/followers/kieronjenkins?label=Follow&style=social" alt="Github Follow"></a>
+
 Made using Python. This script changes the four main default Maya camera near and far clip planes so that they don't clip and deletes history.
 
 ## How to use
